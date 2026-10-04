@@ -59,6 +59,3 @@ El dataset contiene:
 
 Las correlaciones y diferencias observadas describen asociaciones en
 la muestra analizada y no deben interpretarse como relaciones causales.
-├── Student_Performance_Analisis.ipynb
-├── Student_Performance.xlsx
-└── README.md
